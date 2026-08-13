@@ -1,0 +1,391 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YData Profiling",
+          "description": "YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual data understanding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T23:26:39Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-profiling",
+            "stars": 13669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Great Expectations",
+          "description": "Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:10:14Z",
+            "owner": "fivetran",
+            "repo": "great_expectations",
+            "stars": 11708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lux",
+          "description": "Lux is a Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-20T15:48:47Z",
+            "owner": "lux-org",
+            "repo": "lux",
+            "stars": 5377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D-Tale",
+          "description": "Is an open-source python auto-visualization library that brings you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T05:18:50Z",
+            "owner": "man-group",
+            "repo": "dtale",
+            "stars": 5213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SweetViz",
+          "description": "SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-11T19:21:12Z",
+            "owner": "fbdesignpro",
+            "repo": "sweetviz",
+            "stars": 3118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whylogs",
+          "description": "whylogs is the open source standard for data logging. It uses data profiling techniques to create whylogs profiles, which can be used as logs to enable monitoring and observability for data pipelines and ML models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-01-10T20:14:49Z",
+            "owner": "whylabs",
+            "repo": "whylogs",
+            "stars": 2830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataPrep.EDA",
+          "description": "DataPrep.EDA is an EDA (Exploratory Data Analysis) tool in Python that allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-27T16:57:45Z",
+            "owner": "sfu-db",
+            "repo": "dataprep",
+            "stars": 2249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoViz",
+          "description": "Automatically Visualize any dataset, any size with a single line of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-10T12:08:43Z",
+            "owner": "AutoViML",
+            "repo": "AutoViz",
+            "stars": 1901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Profiler",
+          "description": "The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T21:32:39Z",
+            "owner": "capitalone",
+            "repo": "DataProfiler",
+            "stars": 1573
+          }
+        }
+      ],
+      "title": "📊 Data Profiling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SDV",
+          "description": "The Synthetic Data Vault (SDV) is a Synthetic Data Generation ecosystem of libraries that allows users to easily learn single-table, multi-table, and time-series datasets to, later on, generate new Synthetic Data that has the same format and statistical properties as the original dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:03:27Z",
+            "owner": "sdv-dev",
+            "repo": "SDV",
+            "stars": 3543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pomegranate",
+          "description": "Pomegranate is a package for building probabilistic models in Python that is implemented in Cython for speed. Most of these models can sample data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T03:50:26Z",
+            "owner": "jmschrei",
+            "repo": "pomegranate",
+            "stars": 3542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YData Synthetic",
+          "description": "Structured Synthetic Data Generators using Generative Adversarial Networks specifically for tabular and time-series data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-23T12:34:53Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-synthetic",
+            "stars": 1651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gretel Synthetics",
+          "description": "Gretel Synthetics package allows developers to quickly get immersed with synthetic data generation through the use of neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-06-24T21:44:06Z",
+            "owner": "gretelai",
+            "repo": "gretel-synthetics",
+            "stars": 684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zpy",
+          "description": "Zpy solves the problem of lack of business specific datasets for computer vision based applications. Zpy uses Python and Blender (an open source 3D graphics toolset) to create synthetic datasets suitable for unique business cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-04T15:26:07Z",
+            "owner": "ZumoLabs",
+            "repo": "zpy",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataSynthesizer",
+          "description": "DataSynthesizer generates synthetic data that simulates a given dataset. It applies Differential Privacy techniques to achieve a strong privacy guarantee.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-15T15:22:56Z",
+            "owner": "DataResponsibly",
+            "repo": "DataSynthesizer",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Time-Series-Generator",
+          "description": "Time-Series-Generator allows developers to create synthetic timeseries datasets in a generic way that follows different trends.The goal here is to have non-sensitive data available to demo solutions and test the effectiveness of those solutions and/or algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T10:31:25Z",
+            "owner": "Nike-Inc",
+            "repo": "timeseries-generator",
+            "stars": 159
+          }
+        }
+      ],
+      "title": "🔐 Synthetic Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LabelStudio",
+          "description": "Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:15:52Z",
+            "owner": "HumanSignal",
+            "repo": "label-studio",
+            "stars": 28038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LabelImg",
+          "description": "LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-07T20:24:32Z",
+            "owner": "HumanSignal",
+            "repo": "labelImg",
+            "stars": 25066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LabelMe",
+          "description": "LabelMe is an image polygonal annotation tool that uses Python and Qt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T02:53:11Z",
+            "owner": "wkentaro",
+            "repo": "labelme",
+            "stars": 16099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightlyStudio",
+          "description": "LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:15:27Z",
+            "owner": "lightly-ai",
+            "repo": "lightly-studio",
+            "stars": 876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Open Source Data Annotation & Labeling Tools",
+          "description": "A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T19:31:47Z",
+            "owner": "zenml-io",
+            "repo": "awesome-open-data-annotation",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TagAnamoly",
+          "description": "Anomaly detection labeling tool, specifically for multiple time series (one time series per category).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "R",
+            "last_commit": "2024-02-08T15:29:01Z",
+            "owner": "microsoft",
+            "repo": "TagAnomaly",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EchoML",
+          "description": "Play, visualize and annotate your audio files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-05T00:24:29Z",
+            "owner": "ritazh",
+            "repo": "EchoML",
+            "stars": 119
+          }
+        }
+      ],
+      "title": "🏷 Data Labelling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DataFlow",
+          "description": "LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:31:47Z",
+            "owner": "OpenDCAI",
+            "repo": "DataFlow",
+            "stars": 7368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataFix",
+          "description": "DataFix is a Python tool for detecting and correcting distribution shifts between a reference and a query dataset. It detects shifts, localizes the specific features responsible for the shift, and corrects them efficiently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-01T19:48:46Z",
+            "owner": "AI-sandbox",
+            "repo": "DataFix",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "🛠️ Data Preparation"
+    },
+    {
+      "description": "We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.\nIf you found these resources useful, please feel free to check out our Data-Centric AI Community or click here to join our Discord server. We hope to say hi on the other side!",
+      "items": [],
+      "title": "👾 An Open Invitation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:11.319Z",
+    "original_repository": "Data-Centric-AI-Community/awesome-data-centric-ai",
+    "original_repository_sha": "8dae081111ecc773834953bc75c3b08cb31142f0",
+    "enhanced_repository": "enhansome/enhansome-data-centric-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome Data-Centric AI with stars"
+  }
+}
