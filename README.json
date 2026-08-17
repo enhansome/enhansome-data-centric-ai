@@ -14,7 +14,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13673
+            "stars": 13671
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5377
+            "stars": 5376
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5213
+            "stars": 5214
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-04-11T19:21:12Z",
             "owner": "fbdesignpro",
             "repo": "sweetviz",
-            "stars": 3116
+            "stars": 3117
           }
         },
         {
@@ -143,7 +143,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:08:47Z",
+            "last_commit": "2026-08-17T00:20:19Z",
             "owner": "sdv-dev",
             "repo": "SDV",
             "stars": 3546
@@ -247,10 +247,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:21:23Z",
+            "last_commit": "2026-08-17T08:56:17Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28065
+            "stars": 28077
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-06-07T20:24:32Z",
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25064
+            "stars": 25061
           }
         },
         {
@@ -275,10 +275,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-08T02:53:11Z",
+            "last_commit": "2026-08-17T08:57:23Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16103
+            "stars": 16107
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:22:47Z",
+            "last_commit": "2026-08-17T08:23:54Z",
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 877
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-12T14:31:47Z",
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7470
+            "stars": 7493
           }
         },
         {
@@ -381,7 +381,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:56:39.394Z",
+    "last_updated": "2026-08-17T09:08:15.635Z",
     "original_repository": "Data-Centric-AI-Community/awesome-data-centric-ai",
     "original_repository_sha": "8dae081111ecc773834953bc75c3b08cb31142f0",
     "enhanced_repository": "enhansome/enhansome-data-centric-ai",
