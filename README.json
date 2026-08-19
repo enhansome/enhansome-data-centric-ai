@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49346299,
             "language": "Python",
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13672
+            "stars": 13676
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103071520,
             "language": "Python",
-            "last_commit": "2026-08-18T08:14:17Z",
+            "last_commit": "2026-08-19T08:59:29Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11715
+            "stars": 11718
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232480726,
             "language": "Python",
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196968829,
             "language": "TypeScript",
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 262600128,
             "language": "Python",
             "last_commit": "2026-04-11T19:21:12Z",
             "owner": "fbdesignpro",
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 287642401,
             "language": "Jupyter Notebook",
             "last_commit": "2025-01-10T20:14:49Z",
             "owner": "whylabs",
             "repo": "whylogs",
-            "stars": 2831
+            "stars": 2832
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186311346,
             "language": "Python",
             "last_commit": "2024-06-27T16:57:45Z",
             "owner": "sfu-db",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197432079,
             "language": "Python",
             "last_commit": "2024-06-10T12:08:43Z",
             "owner": "AutoViML",
             "repo": "AutoViz",
-            "stars": 1900
+            "stars": 1899
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311379516,
             "language": "Python",
             "last_commit": "2026-07-20T21:32:39Z",
             "owner": "capitalone",
@@ -133,7 +142,7 @@
       "title": "📊 Data Profiling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133060053,
             "language": "Python",
-            "last_commit": "2026-08-17T21:11:19Z",
+            "last_commit": "2026-08-18T20:49:54Z",
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3547
+            "stars": 3546
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27089158,
             "language": "Python",
             "last_commit": "2025-03-06T03:50:26Z",
             "owner": "jmschrei",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261229105,
             "language": "Jupyter Notebook",
             "last_commit": "2026-04-23T12:34:53Z",
             "owner": "Data-Centric-AI-Community",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 244411609,
             "language": "Python",
             "last_commit": "2025-06-24T21:44:06Z",
             "owner": "gretelai",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338368381,
             "language": "Python",
             "last_commit": "2021-12-04T15:26:07Z",
             "owner": "ZumoLabs",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80149146,
             "language": "HTML",
             "last_commit": "2026-07-15T15:22:56Z",
             "owner": "DataResponsibly",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 387904038,
             "language": "Python",
             "last_commit": "2024-07-08T10:31:25Z",
             "owner": "Nike-Inc",
@@ -237,7 +253,7 @@
       "title": "🔐 Synthetic Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -246,11 +262,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T00:06:11Z",
+            "last_commit": "2026-08-19T08:05:03Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28081
+            "stars": 28084
           }
         },
         {
@@ -260,11 +277,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 42625970,
             "language": "Python",
             "last_commit": "2024-06-07T20:24:32Z",
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25061
+            "stars": 25060
           }
         },
         {
@@ -274,11 +292,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-18T09:01:30Z",
+            "last_commit": "2026-08-19T00:32:09Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16110
+            "stars": 16109
           }
         },
         {
@@ -288,8 +307,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080303945,
             "language": "Python",
-            "last_commit": "2026-08-18T08:59:09Z",
+            "last_commit": "2026-08-19T09:03:10Z",
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 877
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500116286,
             "language": null,
             "last_commit": "2026-07-06T19:31:47Z",
             "owner": "zenml-io",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 139555645,
             "language": "R",
             "last_commit": "2024-02-08T15:29:01Z",
             "owner": "microsoft",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95057497,
             "language": "JavaScript",
             "last_commit": "2020-04-05T00:24:29Z",
             "owner": "ritazh",
@@ -341,7 +364,7 @@
       "title": "🏷 Data Labelling"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -350,11 +373,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872005985,
             "language": "Python",
-            "last_commit": "2026-08-12T14:31:47Z",
+            "last_commit": "2026-08-18T12:18:15Z",
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7517
+            "stars": 7557
           }
         },
         {
@@ -364,6 +388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 713095319,
             "language": "Jupyter Notebook",
             "last_commit": "2024-02-01T19:48:46Z",
             "owner": "AI-sandbox",
@@ -373,15 +398,10 @@
         }
       ],
       "title": "🛠️ Data Preparation"
-    },
-    {
-      "description": "We are open to collaboration! If you want to start contributing you only need to create a pull request with relevant resources. We would review each and every pull request.\nIf you found these resources useful, please feel free to check out our Data-Centric AI Community or click here to join our Discord server. We hope to say hi on the other side!",
-      "items": [],
-      "title": "👾 An Open Invitation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:02:26.614Z",
+    "last_updated": "2026-08-19T09:03:35.097Z",
     "original_repository": "Data-Centric-AI-Community/awesome-data-centric-ai",
     "original_repository_sha": "8dae081111ecc773834953bc75c3b08cb31142f0",
     "enhanced_repository": "enhansome/enhansome-data-centric-ai",
