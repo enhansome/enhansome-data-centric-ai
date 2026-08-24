@@ -15,7 +15,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13684
+            "stars": 13685
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T14:43:46Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11731
+            "stars": 11732
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5378
+            "stars": 5377
           }
         },
         {
@@ -264,10 +264,10 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:13:58Z",
+            "last_commit": "2026-08-24T14:21:00Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28119
+            "stars": 28122
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-23T01:24:11Z",
+            "last_commit": "2026-08-24T13:58:26Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16123
+            "stars": 16124
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 1080303945,
             "language": "Python",
-            "last_commit": "2026-08-24T09:11:19Z",
+            "last_commit": "2026-08-24T14:23:08Z",
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 877
@@ -378,7 +378,7 @@
             "last_commit": "2026-08-18T12:18:15Z",
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7747
+            "stars": 7750
           }
         },
         {
@@ -398,10 +398,52 @@
         }
       ],
       "title": "🛠️ Data Preparation"
+    },
+    {
+      "description": "Here you may find a list of hands-on tutorials and other materials we use on our website and Medium blogs here: Tutorials and Resources.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WFGY 16 Problem Map",
+          "description": "Data and pipeline centric failure map for LLM and production RAG systems, providing a compact vocabulary and practical repair steps for sixteen common issues in retrieval, chunking, embeddings, vector stores, evaluation, and infra.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 996124831,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T07:02:30Z",
+            "owner": "onestardao",
+            "repo": "WFGY",
+            "stars": 1781
+          }
+        }
+      ],
+      "title": "📚 Tutorials and Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MIT Introduction to Data-Centric AI",
+          "description": "This class covers algorithms to find and fix common issues in ML data and to construct better datasets, concentrating on data used in supervised learning tasks like classification. All material taught in this course is highly practical, focused on impactful aspects of real-world ML applications, rather than mathematical details of how particular models work. You can take this course to learn practical techniques not covered in most ML classes, which will help mitigate the “garbage in, garbage out” problem that plagues many real-world ML applications. Website | Lecture Videos | Lab Assignments",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 574646981,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-24T15:58:39Z",
+            "owner": "dcai-course",
+            "repo": "dcai-lab",
+            "stars": 482
+          }
+        }
+      ],
+      "title": "🎓 Courses"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:13:00.860Z",
+    "last_updated": "2026-08-24T14:29:32.612Z",
     "original_repository": "Data-Centric-AI-Community/awesome-data-centric-ai",
     "original_repository_id": 454472302,
     "original_repository_sha": "8dae081111ecc773834953bc75c3b08cb31142f0",
