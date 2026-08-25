@@ -60,7 +60,7 @@
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5215
+            "stars": 5214
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-25T00:06:55Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28127
+            "stars": 28132
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 58374888,
             "language": "Python",
-            "last_commit": "2026-08-25T06:07:34Z",
+            "last_commit": "2026-08-25T08:10:54Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16124
+            "stars": 16125
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 1080303945,
             "language": "Python",
-            "last_commit": "2026-08-24T20:41:33Z",
+            "last_commit": "2026-08-25T09:06:22Z",
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 877
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T05:35:56Z",
+            "last_commit": "2026-08-25T06:51:54Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1784
@@ -443,7 +443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:14.540Z",
+    "last_updated": "2026-08-25T09:07:16.707Z",
     "original_repository": "Data-Centric-AI-Community/awesome-data-centric-ai",
     "original_repository_id": 454472302,
     "original_repository_sha": "8dae081111ecc773834953bc75c3b08cb31142f0",
