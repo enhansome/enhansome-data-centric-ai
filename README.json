@@ -16,7 +16,8 @@
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
             "stars": 13683
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 103071520,
             "language": "Python",
-            "last_commit": "2026-08-27T15:26:51Z",
+            "last_commit": "2026-08-28T17:08:33Z",
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11742
-          }
+            "stars": 11745
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-03-20T15:48:47Z",
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5377
-          }
+            "stars": 5378
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5213
-          }
+            "stars": 5214
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-04-11T19:21:12Z",
             "owner": "fbdesignpro",
             "repo": "sweetviz",
-            "stars": 3120
-          }
+            "stars": 3121
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "whylabs",
             "repo": "whylogs",
             "stars": 2831
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "sfu-db",
             "repo": "dataprep",
             "stars": 2249
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2024-06-10T12:08:43Z",
             "owner": "AutoViML",
             "repo": "AutoViz",
-            "stars": 1898
-          }
+            "stars": 1899
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2026-08-26T15:47:52Z",
             "owner": "capitalone",
             "repo": "DataProfiler",
-            "stars": 1578
-          }
+            "stars": 1579
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         }
       ],
       "title": "📊 Data Profiling"
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 133060053,
             "language": "Python",
-            "last_commit": "2026-08-27T18:44:30Z",
+            "last_commit": "2026-08-28T18:02:05Z",
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3550
-          }
+            "stars": 3551
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "jmschrei",
             "repo": "pomegranate",
             "stars": 3543
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
             "stars": 1654
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "gretelai",
             "repo": "gretel-synthetics",
             "stars": 683
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "ZumoLabs",
             "repo": "zpy",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "DataResponsibly",
             "repo": "DataSynthesizer",
             "stars": 276
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "Nike-Inc",
             "repo": "timeseries-generator",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         }
       ],
       "title": "🔐 Synthetic Data"
@@ -264,11 +280,12 @@
             "archived": false,
             "id": 192640529,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:55:03Z",
+            "last_commit": "2026-08-28T19:16:44Z",
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28158
-          }
+            "stars": 28165
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -282,8 +299,9 @@
             "last_commit": "2024-06-07T20:24:32Z",
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25060
-          }
+            "stars": 25059
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -297,8 +315,9 @@
             "last_commit": "2026-08-27T13:18:57Z",
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16131
-          }
+            "stars": 16134
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -309,11 +328,12 @@
             "archived": false,
             "id": 1080303945,
             "language": "Python",
-            "last_commit": "2026-08-27T19:05:31Z",
+            "last_commit": "2026-08-28T20:00:06Z",
             "owner": "lightly-ai",
             "repo": "lightly-studio",
-            "stars": 877
-          }
+            "stars": 878
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "zenml-io",
             "repo": "awesome-open-data-annotation",
             "stars": 725
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "microsoft",
             "repo": "TagAnomaly",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "ritazh",
             "repo": "EchoML",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         }
       ],
       "title": "🏷 Data Labelling"
@@ -378,8 +401,9 @@
             "last_commit": "2026-08-18T12:18:15Z",
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7783
-          }
+            "stars": 7797
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "AI-sandbox",
             "repo": "DataFix",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         }
       ],
       "title": "🛠️ Data Preparation"
@@ -411,11 +436,12 @@
             "archived": false,
             "id": 996124831,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-27T17:26:58Z",
+            "last_commit": "2026-08-28T18:20:15Z",
             "owner": "onestardao",
             "repo": "WFGY",
             "stars": 1785
-          }
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         }
       ],
       "title": "📚 Tutorials and Resources"
@@ -435,15 +461,16 @@
             "last_commit": "2025-02-24T15:58:39Z",
             "owner": "dcai-course",
             "repo": "dcai-lab",
-            "stars": 482
-          }
+            "stars": 484
+          },
+          "first_seen": "2026-08-28T20:17:54.133Z"
         }
       ],
       "title": "🎓 Courses"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:11:38.440Z",
+    "last_updated": "2026-08-28T20:17:54.133Z",
     "original_repository_info": {
       "archived": false,
       "id": 454472302,
