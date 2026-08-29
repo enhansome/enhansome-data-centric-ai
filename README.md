@@ -2,7 +2,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/data-centric-ai-community)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@datacentricai)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,876 | 🐛 32 | 📅 2026-08-26
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,877 | 🐛 32 | 📅 2026-08-26
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/ydata_ai.svg?label=Follow)](https://twitter.com/YData_ai/)
@@ -18,7 +18,7 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 ## 📊 Data Profiling
 
 * [YData Profiling](https://github.com/ydataai/ydata-profiling) ⭐ 13,683 | 🐛 325 | 🌐 Python | 📅 2026-04-22 - YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual  data understanding.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,745 | 🐛 27 | 🌐 Python | 📅 2026-08-28 - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,745 | 🐛 31 | 🌐 Python | 📅 2026-08-28 - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 * [Lux](https://github.com/lux-org/lux) ⭐ 5,378 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Lux is a Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.
 * [D-Tale](https://github.com/man-group/dtale) ⭐ 5,214 | 🐛 70 | 🌐 TypeScript | 📅 2026-07-24 - Is an open-source python auto-visualization library that brings you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals.
 * [SweetViz](https://github.com/fbdesignpro/sweetviz) ⭐ 3,121 | 🐛 41 | 🌐 Python | 📅 2026-04-11 - SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
@@ -40,17 +40,17 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 
 ## 🏷 Data Labelling
 
-* [LabelStudio](https://github.com/heartexlabs/label-studio) ⭐ 28,165 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
+* [LabelStudio](https://github.com/heartexlabs/label-studio) ⭐ 28,164 | 🐛 927 | 🌐 TypeScript | 📅 2026-08-28 - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
 * [LabelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
-* [LabelMe](https://github.com/wkentaro/labelme) ⭐ 16,134 | 🐛 180 | 🌐 Python | 📅 2026-08-27 - LabelMe is an image polygonal annotation tool that uses Python and Qt.
-* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 878 | 🐛 50 | 🌐 Python | 📅 2026-08-28 - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
+* [LabelMe](https://github.com/wkentaro/labelme) ⭐ 16,133 | 🐛 180 | 🌐 Python | 📅 2026-08-27 - LabelMe is an image polygonal annotation tool that uses Python and Qt.
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 879 | 🐛 50 | 🌐 Python | 📅 2026-08-28 - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
 * [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) ⭐ 725 | 🐛 2 | 📅 2026-07-06 - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
 * [TagAnamoly](https://github.com/Microsoft/TagAnomaly) ⚠️ Archived - Anomaly detection labeling tool, specifically for multiple time series (one time series per category).
 * [EchoML](https://github.com/ritazh/EchoML) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2020-04-05 - Play, visualize and annotate your audio files
 
 ## 🛠️ Data Preparation
 
-* [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 7,797 | 🐛 9 | 🌐 Python | 📅 2026-08-18 - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
+* [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 7,809 | 🐛 9 | 🌐 Python | 📅 2026-08-18 - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
 * [DataFix](https://github.com/AI-sandbox/DataFix) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-01 - DataFix is a Python tool for detecting and correcting distribution shifts between a reference and a query dataset. It detects shifts, localizes the specific features responsible for the shift, and corrects them efficiently.
 
 ## 📚 Tutorials and Resources
@@ -77,4 +77,4 @@ If you found these resources useful, please feel free to check out our [Data-Cen
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

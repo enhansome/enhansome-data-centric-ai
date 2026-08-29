@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. ",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 49346299,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T23:26:39Z",
+            "open_issues": 325,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13683
+            "stars": 13683,
+            "topics": [
+              "big-data-analytics",
+              "data-analysis",
+              "data-exploration",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "eda",
+              "exploration",
+              "exploratory-data-analysis",
+              "hacktoberfest",
+              "html-report",
+              "jupyter",
+              "jupyter-notebook",
+              "machine-learning",
+              "pandas",
+              "pandas-dataframe",
+              "pandas-profiling",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -26,12 +52,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Always know what to expect from your data.",
+            "homepage": "https://docs.greatexpectations.io/",
             "id": 103071520,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:08:33Z",
+            "open_issues": 31,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11745
+            "stars": 11745,
+            "topics": [
+              "cleandata",
+              "data-engineering",
+              "data-profilers",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "data-unit-tests",
+              "datacleaner",
+              "datacleaning",
+              "dataquality",
+              "dataunittest",
+              "eda",
+              "exploratory-analysis",
+              "exploratory-data-analysis",
+              "exploratorydataanalysis",
+              "mlops",
+              "pipeline",
+              "pipeline-debt",
+              "pipeline-testing",
+              "pipeline-tests"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -42,12 +94,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically visualize your pandas dataframe via a single print! 📊 💡",
+            "homepage": null,
             "id": 232480726,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-20T15:48:47Z",
+            "open_issues": 90,
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5378
+            "stars": 5378,
+            "topics": [
+              "data-science",
+              "exploratory-data-analysis",
+              "jupyter",
+              "pandas",
+              "python",
+              "visualization",
+              "visualization-tools"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -58,12 +123,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualizer for pandas data structures",
+            "homepage": "http://alphatechadmin.pythonanywhere.com",
             "id": 196968829,
             "language": "TypeScript",
+            "license": "LGPL-2.1",
             "last_commit": "2026-07-24T05:18:50Z",
+            "open_issues": 70,
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5214
+            "stars": 5214,
+            "topics": [
+              "data-analysis",
+              "data-science",
+              "data-visualization",
+              "flask",
+              "ipython",
+              "jupyter-notebook",
+              "pandas",
+              "plotly-dash",
+              "python27",
+              "python3",
+              "react",
+              "react-virtualized",
+              "visualization",
+              "xarray"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -74,12 +159,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualize and compare datasets, target values and associations, with one line of code.",
+            "homepage": null,
             "id": 262600128,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-11T19:21:12Z",
+            "open_issues": 41,
             "owner": "fbdesignpro",
             "repo": "sweetviz",
-            "stars": 3121
+            "stars": 3121,
+            "topics": [
+              "data-analysis",
+              "data-exploration",
+              "data-profiling",
+              "data-science",
+              "data-visualization",
+              "eda",
+              "exploration",
+              "exploratory-data-analysis",
+              "machine-learning",
+              "pandas",
+              "pandas-dataframe",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -90,12 +194,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source data logging library for machine learning models and data pipelines. 📚 Provides visibility into data quality & model performance over time. 🛡️ Supports privacy-preserving data collection, ensuring safety & robustness. 📈",
+            "homepage": "https://whylogs.readthedocs.io/",
             "id": 287642401,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-10T20:14:49Z",
+            "open_issues": 5,
             "owner": "whylabs",
             "repo": "whylogs",
-            "stars": 2831
+            "stars": 2831,
+            "topics": [
+              "ai-pipelines",
+              "analytics",
+              "approximate-statistics",
+              "calculate-statistics",
+              "constraints",
+              "data-constraints",
+              "data-pipeline",
+              "data-quality",
+              "data-science",
+              "dataops",
+              "dataset",
+              "logging",
+              "machine-learning",
+              "ml-pipelines",
+              "mlops",
+              "model-performance",
+              "python",
+              "statistical-properties"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -106,12 +234,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source low code data preparation library in python. Collect, clean and visualization your data in python with a few lines of code.",
+            "homepage": "http://dataprep.ai",
             "id": 186311346,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-27T16:57:45Z",
+            "open_issues": 167,
             "owner": "sfu-db",
             "repo": "dataprep",
-            "stars": 2249
+            "stars": 2249,
+            "topics": [
+              "apis",
+              "apiwrapper",
+              "cleaning",
+              "connector",
+              "data-exploration",
+              "data-science",
+              "datacleaning",
+              "dataconnector",
+              "dataprep",
+              "datapreparation",
+              "eda",
+              "exploratory-data-analysis",
+              "webconnector"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -122,12 +269,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically Visualize any dataset, any size with a single line of code.  Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.",
+            "homepage": null,
             "id": 197432079,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-10T12:08:43Z",
+            "open_issues": 2,
             "owner": "AutoViML",
             "repo": "AutoViz",
-            "stars": 1899
+            "stars": 1899,
+            "topics": [
+              "auto-sklearn",
+              "automated-machine-learning",
+              "automl",
+              "automl-algorithms",
+              "machine-learning",
+              "python",
+              "python3",
+              "scikit-learn",
+              "tableau",
+              "tpot",
+              "visualization",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -138,12 +303,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "What's in your data? Extract schema, statistics and entities from datasets",
+            "homepage": "https://capitalone.github.io/DataProfiler",
             "id": 311379516,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T15:47:52Z",
+            "open_issues": 77,
             "owner": "capitalone",
             "repo": "DataProfiler",
-            "stars": 1579
+            "stars": 1579,
+            "topics": [
+              "avro",
+              "csv",
+              "data-analysis",
+              "data-labels",
+              "data-science",
+              "dataprofiling",
+              "dataset",
+              "gdpr",
+              "graph-data",
+              "machine-learning",
+              "network-data",
+              "nlp",
+              "npi",
+              "pandas",
+              "pii",
+              "privacy",
+              "python",
+              "security",
+              "sensitive-data",
+              "tabular-data"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         }
@@ -160,12 +351,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generation for tabular data",
+            "homepage": "https://docs.sdv.dev/sdv",
             "id": 133060053,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:02:05Z",
+            "open_issues": 161,
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3551
+            "stars": 3551,
+            "topics": [
+              "data-generation",
+              "deep-learning",
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "generative-ai",
+              "generative-model",
+              "generativeai",
+              "machine-learning",
+              "multi-table",
+              "relational-datasets",
+              "sdv",
+              "synthetic-data",
+              "synthetic-data-generation",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -176,12 +388,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, flexible and easy to use probabilistic modelling in Python.",
+            "homepage": "http://pomegranate.readthedocs.org/en/latest/",
             "id": 27089158,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-06T03:50:26Z",
+            "open_issues": 44,
             "owner": "jmschrei",
             "repo": "pomegranate",
-            "stars": 3543
+            "stars": 3543,
+            "topics": [
+              "machine-learning",
+              "probabilistic-graphical-models",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -192,12 +414,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generators for tabular and time-series data",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 261229105,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-04-23T12:34:53Z",
+            "open_issues": 64,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1654
+            "stars": 1654,
+            "topics": [
+              "datageneration",
+              "datagenerator",
+              "deep-learning",
+              "gan",
+              "gan-architectures",
+              "gans",
+              "generative-adversarial-network",
+              "machine-learning",
+              "python3",
+              "pytorch",
+              "synthetic-data",
+              "tensorflow2",
+              "time-series",
+              "timeseries",
+              "training-data"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -208,12 +451,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Synthetic data generators for structured and unstructured text, featuring differentially private learning.",
+            "homepage": "https://gretel.ai/platform/synthetics",
             "id": 244411609,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-24T21:44:06Z",
+            "open_issues": 0,
             "owner": "gretelai",
             "repo": "gretel-synthetics",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "artificial-intelligence",
+              "differential-privacy",
+              "privacy",
+              "synthetic-data",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -224,12 +478,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data for computer vision. An open source toolkit using Blender and Python.",
+            "homepage": null,
             "id": 338368381,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-12-04T15:26:07Z",
+            "open_issues": 4,
             "owner": "ZumoLabs",
             "repo": "zpy",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "ai",
+              "blender",
+              "blender-addon",
+              "computer-vision",
+              "data",
+              "deep-learning",
+              "ml",
+              "python",
+              "synthetic",
+              "synthetic-data"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -240,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 80149146,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-15T15:22:56Z",
+            "open_issues": 17,
             "owner": "DataResponsibly",
             "repo": "DataSynthesizer",
-            "stars": 276
+            "stars": 276,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -256,12 +531,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to generate synthetic time series data by easy-to-use factors and generator",
+            "homepage": null,
             "id": 387904038,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-08T10:31:25Z",
+            "open_issues": 8,
             "owner": "Nike-Inc",
             "repo": "timeseries-generator",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "generator",
+              "python",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         }
@@ -278,12 +562,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+            "homepage": "https://labelstud.io",
             "id": 192640529,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:16:44Z",
+            "open_issues": 927,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28165
+            "stars": 28164,
+            "topics": [
+              "annotation",
+              "annotation-tool",
+              "annotations",
+              "boundingbox",
+              "computer-vision",
+              "data-labeling",
+              "dataset",
+              "datasets",
+              "deep-learning",
+              "image-annotation",
+              "image-classification",
+              "image-labeling",
+              "image-labelling-tool",
+              "label-studio",
+              "labeling",
+              "labeling-tool",
+              "mlops",
+              "semantic-segmentation",
+              "text-annotation",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -294,12 +604,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source data labeling tool for images, text, hypertext, audio, video and time-series data.",
+            "homepage": "https://youtu.be/p0nR2YsCY_U",
             "id": 42625970,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-07T20:24:32Z",
+            "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25059
+            "stars": 25059,
+            "topics": [
+              "annotations",
+              "deep-learning",
+              "detection",
+              "image-classification",
+              "imagenet",
+              "python2",
+              "python3",
+              "recognition",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -310,12 +635,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image annotation with Python. Supports polygon, rectangle, circle, line, point, and AI-assisted annotation.",
+            "homepage": "https://labelme.io",
             "id": 58374888,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T13:18:57Z",
+            "open_issues": 180,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16134
+            "stars": 16133,
+            "topics": [
+              "annotations",
+              "classification",
+              "computer-vision",
+              "deep-learning",
+              "image-annotation",
+              "instance-segmentation",
+              "python",
+              "semantic-segmentation",
+              "video-annotation"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -326,12 +666,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LightlyStudio - The Unified Data Platform for Multimodal ML",
+            "homepage": "https://docs.lightly.ai/studio/",
             "id": 1080303945,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:00:06Z",
+            "open_issues": 50,
             "owner": "lightly-ai",
             "repo": "lightly-studio",
-            "stars": 878
+            "stars": 879,
+            "topics": [
+              "computer-vision",
+              "curation",
+              "image-labeling",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -342,12 +692,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Data Annotation & Labeling Tools",
+            "homepage": null,
             "id": 500116286,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-06T19:31:47Z",
+            "open_issues": 2,
             "owner": "zenml-io",
             "repo": "awesome-open-data-annotation",
-            "stars": 725
+            "stars": 725,
+            "topics": [
+              "ai",
+              "annotation",
+              "datacentric",
+              "labelled-data",
+              "labelling",
+              "machine-learning",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -358,12 +721,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Anomaly detection analysis and labeling tool, specifically for multiple time series (one time series per category) ",
+            "homepage": null,
             "id": 139555645,
             "language": "R",
+            "license": "MIT",
             "last_commit": "2024-02-08T15:29:01Z",
+            "open_issues": 2,
             "owner": "microsoft",
             "repo": "TagAnomaly",
-            "stars": 333
+            "stars": 333,
+            "topics": [
+              "anomaly-detection",
+              "labeling-tool",
+              "r",
+              "shiny",
+              "tagging-tool",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -374,12 +749,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔉 A web app to play, visualize, and annotate your audio files for machine learning",
+            "homepage": "http://echoml.azurewebsites.net/",
             "id": 95057497,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-05T00:24:29Z",
+            "open_issues": 17,
             "owner": "ritazh",
             "repo": "EchoML",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "audio",
+              "audio-player",
+              "audio-visualizer",
+              "azure-storage",
+              "labeling",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         }
@@ -396,12 +783,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy Data Preparation with latest LLMs-based Operators and Pipelines.",
+            "homepage": "https://OpenDCAI.github.io/DataFlow-Doc/",
             "id": 872005985,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T12:18:15Z",
+            "open_issues": 9,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7797
+            "stars": 7809,
+            "topics": [
+              "data",
+              "data-agent",
+              "data-cleaning",
+              "data-pipelines",
+              "data-processing",
+              "data-science",
+              "data-synthesis",
+              "gradio-interface",
+              "llms",
+              "operators",
+              "quick-data-processing",
+              "sglang-bankend",
+              "vllm-backend"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         },
@@ -412,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 713095319,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-01T19:48:46Z",
+            "open_issues": 0,
             "owner": "AI-sandbox",
             "repo": "DataFix",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         }
@@ -434,12 +845,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WFGY is heading toward WFGY 5.0 Polaris Protocol, a major open-source release for AI reasoning, RAG, agents, and real-world workflows. Includes Problem Map, Global Debug Card, WFGY 4.0, and the CFV Easter Egg.",
+            "homepage": "https://github.com/onestardao/WFGY",
             "id": 996124831,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:20:15Z",
+            "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1785
+            "stars": 1785,
+            "topics": [
+              "ai-agents",
+              "alignment",
+              "debugging",
+              "evaluation",
+              "graphrag",
+              "hallucination",
+              "information-retrieval",
+              "knowledge-graph",
+              "llm",
+              "rag",
+              "reasoning",
+              "retrieval-augmented-generation"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         }
@@ -456,12 +885,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lab assignments for Introduction to Data-Centric AI, MIT IAP 2024 👩🏽‍💻",
+            "homepage": "https://dcai.csail.mit.edu/",
             "id": 574646981,
             "language": "Jupyter Notebook",
+            "license": "AGPL-3.0",
             "last_commit": "2025-02-24T15:58:39Z",
+            "open_issues": 4,
             "owner": "dcai-course",
             "repo": "dcai-lab",
-            "stars": 484
+            "stars": 484,
+            "topics": [
+              "course",
+              "data-centric-ai",
+              "data-science",
+              "deep-learning",
+              "homework",
+              "lab",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
         }
@@ -470,15 +912,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:17:54.133Z",
+    "last_updated": "2026-08-29T04:51:57.044Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
+      "homepage": "https://datacentricai.community",
       "id": 454472302,
       "language": "Jupyter Notebook",
+      "license": "MIT",
       "last_commit": "2026-07-13T11:26:19Z",
+      "open_issues": 0,
       "owner": "Data-Centric-AI-Community",
       "repo": "awesome-data-centric-ai",
-      "stars": 353
+      "stars": 353,
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "data",
+        "data-labelling",
+        "data-quality",
+        "data-science",
+        "data-visualization",
+        "machine-learning",
+        "open-source",
+        "pandas",
+        "python",
+        "python-library",
+        "research",
+        "synthetic-data",
+        "tools",
+        "tutorials"
+      ]
     },
     "original_repository_sha": "8dae081111ecc773834953bc75c3b08cb31142f0",
     "enhanced_repository": "enhansome/enhansome-data-centric-ai",
