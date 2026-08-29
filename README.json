@@ -19,7 +19,7 @@
             "open_issues": 325,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13683,
+            "stars": 13684,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -61,7 +61,7 @@
             "open_issues": 31,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11745,
+            "stars": 11746,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -356,7 +356,7 @@
             "id": 133060053,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:02:05Z",
+            "last_commit": "2026-08-29T13:54:50Z",
             "open_issues": 161,
             "owner": "sdv-dev",
             "repo": "SDV",
@@ -567,11 +567,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T19:16:44Z",
+            "last_commit": "2026-08-29T09:34:56Z",
             "open_issues": 927,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28164,
+            "stars": 28163,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -644,7 +644,7 @@
             "open_issues": 180,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16133,
+            "stars": 16132,
             "topics": [
               "annotations",
               "classification",
@@ -792,7 +792,7 @@
             "open_issues": 9,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 7809,
+            "stars": 7822,
             "topics": [
               "data",
               "data-agent",
@@ -850,7 +850,7 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T18:20:15Z",
+            "last_commit": "2026-08-29T12:28:32Z",
             "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:51:57.044Z",
+    "last_updated": "2026-08-29T13:55:28.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
