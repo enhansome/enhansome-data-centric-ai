@@ -2,7 +2,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/data-centric-ai-community)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@datacentricai)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,904 | 🐛 31 | 📅 2026-09-06
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,907 | 🐛 31 | 📅 2026-09-06
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/ydata_ai.svg?label=Follow)](https://twitter.com/YData_ai/)
@@ -40,24 +40,24 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 
 ## 🏷 Data Labelling
 
-* [LabelStudio](https://github.com/heartexlabs/label-studio) ⭐ 28,252 | 🐛 943 | 🌐 TypeScript | 📅 2026-09-11 - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
+* [LabelStudio](https://github.com/heartexlabs/label-studio) ⭐ 28,252 | 🐛 944 | 🌐 TypeScript | 📅 2026-09-11 - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
 * [LabelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
-* [LabelMe](https://github.com/wkentaro/labelme) ⭐ 16,164 | 🐛 168 | 🌐 Python | 📅 2026-09-10 - LabelMe is an image polygonal annotation tool that uses Python and Qt.
-* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 887 | 🐛 56 | 🌐 Python | 📅 2026-09-11 - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
-* [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) ⭐ 725 | 🐛 2 | 📅 2026-07-06 - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
+* [LabelMe](https://github.com/wkentaro/labelme) ⭐ 16,165 | 🐛 168 | 🌐 Python | 📅 2026-09-10 - LabelMe is an image polygonal annotation tool that uses Python and Qt.
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 888 | 🐛 58 | 🌐 Python | 📅 2026-09-12 - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
+* [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) ⭐ 726 | 🐛 2 | 📅 2026-07-06 - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
 * [TagAnamoly](https://github.com/Microsoft/TagAnomaly) ⚠️ Archived - Anomaly detection labeling tool, specifically for multiple time series (one time series per category).
 * [EchoML](https://github.com/ritazh/EchoML) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2020-04-05 - Play, visualize and annotate your audio files
 
 ## 🛠️ Data Preparation
 
-* [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 8,120 | 🐛 9 | 🌐 Python | 📅 2026-09-10 - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
+* [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 8,142 | 🐛 9 | 🌐 Python | 📅 2026-09-10 - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
 * [DataFix](https://github.com/AI-sandbox/DataFix) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-01 - DataFix is a Python tool for detecting and correcting distribution shifts between a reference and a query dataset. It detects shifts, localizes the specific features responsible for the shift, and corrects them efficiently.
 
 ## 📚 Tutorials and Resources
 
 Here you may find a list of hands-on tutorials and other materials we use on our [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium) ⭐ 354 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-09.
 
-* [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) ⭐ 1,789 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-12 - Data and pipeline centric failure map for LLM and production RAG systems, providing a compact vocabulary and practical repair steps for sixteen common issues in retrieval, chunking, embeddings, vector stores, evaluation, and infra.
+* [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) ⭐ 1,788 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-09-13 - Data and pipeline centric failure map for LLM and production RAG systems, providing a compact vocabulary and practical repair steps for sixteen common issues in retrieval, chunking, embeddings, vector stores, evaluation, and infra.
 * [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/abs/2303.10158) - This survey is to help readers efficiently grasp a broad
   picture of data-centric AI. It covers various aspects such as the needs, definitions, and challenges of data-centric AI, as well as techniques for training data development, inference data development, and data maintenance. Additionally, the survey organizes existing literature from the perspectives of automation and collaboration, tabulating and analyzing benchmarks for achieving data excellence. There is also a [short version](https://arxiv.org/abs/2301.04819).
 
@@ -77,4 +77,4 @@ If you found these resources useful, please feel free to check out our [Discord 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
