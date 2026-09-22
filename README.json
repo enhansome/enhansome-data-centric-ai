@@ -19,7 +19,7 @@
             "open_issues": 329,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13704,
+            "stars": 13706,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -61,7 +61,7 @@
             "open_issues": 66,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11819,
+            "stars": 11827,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -312,7 +312,7 @@
             "open_issues": 80,
             "owner": "capitalone",
             "repo": "DataProfiler",
-            "stars": 1586,
+            "stars": 1587,
             "topics": [
               "avro",
               "csv",
@@ -356,7 +356,7 @@
             "id": 133060053,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T00:49:08Z",
+            "last_commit": "2026-09-22T12:17:42Z",
             "open_issues": 166,
             "owner": "sdv-dev",
             "repo": "SDV",
@@ -397,7 +397,7 @@
             "open_issues": 44,
             "owner": "jmschrei",
             "repo": "pomegranate",
-            "stars": 3544,
+            "stars": 3545,
             "topics": [
               "machine-learning",
               "probabilistic-graphical-models",
@@ -567,11 +567,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T15:05:46Z",
-            "open_issues": 951,
+            "last_commit": "2026-09-22T00:12:04Z",
+            "open_issues": 950,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28316,
+            "stars": 28326,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -613,7 +613,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25055,
+            "stars": 25056,
             "topics": [
               "annotations",
               "deep-learning",
@@ -644,7 +644,7 @@
             "open_issues": 166,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16180,
+            "stars": 16184,
             "topics": [
               "annotations",
               "classification",
@@ -671,8 +671,8 @@
             "id": 1080303945,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T15:10:51Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-22T13:26:41Z",
+            "open_issues": 50,
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 889,
@@ -789,10 +789,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-20T12:13:14Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 8195,
+            "stars": 8197,
             "topics": [
               "data",
               "data-agent",
@@ -850,7 +850,7 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T12:19:20Z",
+            "last_commit": "2026-09-22T11:11:10Z",
             "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
@@ -894,7 +894,7 @@
             "open_issues": 4,
             "owner": "dcai-course",
             "repo": "dcai-lab",
-            "stars": 486,
+            "stars": 487,
             "topics": [
               "course",
               "data-centric-ai",
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:14:57.258Z",
+    "last_updated": "2026-09-22T13:33:39.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
