@@ -19,7 +19,7 @@
             "open_issues": 332,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13714,
+            "stars": 13717,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -57,11 +57,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T14:50:33Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-30T12:48:13Z",
+            "open_issues": 73,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11849,
+            "stars": 11851,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -103,7 +103,7 @@
             "open_issues": 90,
             "owner": "lux-org",
             "repo": "lux",
-            "stars": 5379,
+            "stars": 5380,
             "topics": [
               "data-science",
               "exploratory-data-analysis",
@@ -278,7 +278,7 @@
             "open_issues": 2,
             "owner": "AutoViML",
             "repo": "AutoViz",
-            "stars": 1898,
+            "stars": 1899,
             "topics": [
               "auto-sklearn",
               "automated-machine-learning",
@@ -312,7 +312,7 @@
             "open_issues": 81,
             "owner": "capitalone",
             "repo": "DataProfiler",
-            "stars": 1590,
+            "stars": 1591,
             "topics": [
               "avro",
               "csv",
@@ -356,8 +356,8 @@
             "id": 133060053,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T14:11:24Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-30T12:38:42Z",
+            "open_issues": 152,
             "owner": "sdv-dev",
             "repo": "SDV",
             "stars": 3567,
@@ -397,7 +397,7 @@
             "open_issues": 44,
             "owner": "jmschrei",
             "repo": "pomegranate",
-            "stars": 3546,
+            "stars": 3547,
             "topics": [
               "machine-learning",
               "probabilistic-graphical-models",
@@ -567,11 +567,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:47:14Z",
+            "last_commit": "2026-09-30T11:54:48Z",
             "open_issues": 941,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28371,
+            "stars": 28381,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -640,11 +640,11 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T09:38:43Z",
-            "open_issues": 171,
+            "last_commit": "2026-09-30T08:31:54Z",
+            "open_issues": 164,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16200,
+            "stars": 16203,
             "topics": [
               "annotations",
               "classification",
@@ -671,8 +671,8 @@
             "id": 1080303945,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:48:48Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-30T15:04:42Z",
+            "open_issues": 60,
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 892,
@@ -792,7 +792,7 @@
             "open_issues": 10,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 8214,
+            "stars": 8218,
             "topics": [
               "data",
               "data-agent",
@@ -831,6 +831,42 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:17:54.133Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dtflow",
+          "description": "Terminal browser and CLI toolbox for LLM training data: inspect SFT/DPO/agent JSONL as conversations, filter with Python expressions, dedupe, convert between formats and export to training frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A terminal browser for LLM training data, plus a CLI toolbox to filter, clean, convert and export it.",
+            "homepage": null,
+            "id": 1308540469,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-09-30T09:55:47Z",
+            "open_issues": 0,
+            "owner": "KenyonY",
+            "repo": "dtflow",
+            "stars": 5,
+            "topics": [
+              "data-viewer",
+              "dataset",
+              "dpo",
+              "fine-tuning",
+              "jsonl",
+              "llm",
+              "polars",
+              "python",
+              "rlhf",
+              "sft",
+              "terminal",
+              "textual",
+              "training-data",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-09-30T15:05:08.470Z"
         }
       ],
       "title": "🛠️ Data Preparation"
@@ -850,7 +886,7 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T12:23:04Z",
+            "last_commit": "2026-09-30T12:08:24Z",
             "open_issues": 13,
             "owner": "onestardao",
             "repo": "WFGY",
@@ -912,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:56:46.019Z",
+    "last_updated": "2026-09-30T15:05:08.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
@@ -920,8 +956,8 @@
       "id": 454472302,
       "language": "Jupyter Notebook",
       "license": "MIT",
-      "last_commit": "2026-09-09T16:00:22Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-29T22:34:15Z",
+      "open_issues": 0,
       "owner": "Data-Centric-AI-Community",
       "repo": "awesome-data-centric-ai",
       "stars": 357,
@@ -946,7 +982,7 @@
         "tutorials"
       ]
     },
-    "original_repository_sha": "6837b618db96ed911214a3662599d138fc0ecd48",
+    "original_repository_sha": "c90780580d15fbcf5b89a7e6cbb4a3c591c53166",
     "enhanced_repository": "enhansome/enhansome-data-centric-ai",
     "enhanced_repository_description": null,
     "title": "Awesome Data-Centric AI with stars"
