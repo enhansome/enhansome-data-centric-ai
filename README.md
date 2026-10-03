@@ -2,7 +2,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/data-centric-ai-community)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@datacentricai)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,967 | 🐛 38 | 📅 2026-10-02
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity) ⭐ 20,967 | 🐛 37 | 📅 2026-10-03
 ![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 [![GitHub](https://img.shields.io/twitter/follow/ydata_ai.svg?label=Follow)](https://twitter.com/YData_ai/)
@@ -17,14 +17,14 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 
 ## 📊 Data Profiling
 
-* [YData Profiling](https://github.com/ydataai/ydata-profiling) ⭐ 13,718 | 🐛 335 | 🌐 Python | 📅 2026-09-11 - YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual  data understanding.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,854 | 🐛 65 | 🌐 Python | 📅 2026-10-02 - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
+* [YData Profiling](https://github.com/ydataai/ydata-profiling) ⭐ 13,718 | 🐛 338 | 🌐 Python | 📅 2026-09-11 - YData Profiling supports both Pandas and Spark DataFrames, providing a fast and straightforward visual  data understanding.
+* [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,856 | 🐛 60 | 🌐 Python | 📅 2026-10-02 - Great Expectations helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.
 * [Lux](https://github.com/lux-org/lux) ⭐ 5,380 | 🐛 90 | 🌐 Python | 📅 2024-03-20 - Lux is a Python library that facilitates fast and easy data exploration by automating the visualization and data analysis process.
 * [D-Tale](https://github.com/man-group/dtale) ⭐ 5,227 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-24 - Is an open-source python auto-visualization library that brings you an easy way to view & analyze Pandas data structures. It integrates seamlessly with ipython notebooks & python/ipython terminals.
-* [SweetViz](https://github.com/fbdesignpro/sweetviz) ⭐ 3,128 | 🐛 41 | 🌐 Python | 📅 2026-04-11 - SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
+* [SweetViz](https://github.com/fbdesignpro/sweetviz) ⭐ 3,129 | 🐛 41 | 🌐 Python | 📅 2026-04-11 - SweetViz is an open-source Python library that generates beautiful, high-density visualizations to kickstart EDA (Exploratory Data Analysis) with just two lines of code.
 * [whylogs](https://github.com/whylabs/whylogs) ⭐ 2,835 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-01-10 - whylogs is the open source standard for data logging. It uses data profiling techniques to create *whylogs profiles*, which can be used as logs to enable monitoring and observability for data pipelines and ML models
 * [DataPrep.EDA](https://github.com/sfu-db/dataprep) ⭐ 2,261 | 🐛 167 | 🌐 Python | 📅 2024-06-27 - DataPrep.EDA  is an EDA (Exploratory Data Analysis) tool in Python that allows you to understand a Pandas/Dask DataFrame with a few lines of code in seconds.
-* [AutoViz](https://github.com/AutoViML/AutoViz) ⭐ 1,899 | 🐛 2 | 🌐 Python | 📅 2024-06-10 - Automatically Visualize any dataset, any size with a single line of code.
+* [AutoViz](https://github.com/AutoViML/AutoViz) ⭐ 1,900 | 🐛 2 | 🌐 Python | 📅 2024-06-10 - Automatically Visualize any dataset, any size with a single line of code.
 * [Data Profiler](https://github.com/capitalone/DataProfiler) ⭐ 1,590 | 🐛 82 | 🌐 Python | 📅 2026-09-14 - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 
 ## 🔐 Synthetic Data
@@ -40,23 +40,23 @@ We do value open collaboration and knowledge sharing, so we recommend not to lim
 
 ## 🏷 Data Labelling
 
-* [LabelStudio](https://github.com/heartexlabs/label-studio) ⭐ 28,397 | 🐛 946 | 🌐 TypeScript | 📅 2026-10-02 - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
+* [LabelStudio](https://github.com/heartexlabs/label-studio) ⭐ 28,394 | 🐛 947 | 🌐 TypeScript | 📅 2026-10-02 - Label Studio is an open-source data labeling tool. It lets you label data types like audio, text, images, videos, and time series with a simple and straightforward UI and export to various model formats.
 * [LabelImg](https://github.com/tzutalin/labelImg) ⚠️ Archived - LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
-* [LabelMe](https://github.com/wkentaro/labelme) ⭐ 16,205 | 🐛 165 | 🌐 Python | 📅 2026-10-02 - LabelMe is an image polygonal annotation tool that uses Python and Qt.
-* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 892 | 🐛 52 | 🌐 Python | 📅 2026-10-02 - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
+* [LabelMe](https://github.com/wkentaro/labelme) ⭐ 16,206 | 🐛 164 | 🌐 Python | 📅 2026-10-03 - LabelMe is an image polygonal annotation tool that uses Python and Qt.
+* [LightlyStudio](https://github.com/lightly-ai/lightly-studio) ⭐ 892 | 🐛 51 | 🌐 Python | 📅 2026-10-02 - LightlyStudio is an open source tool for curating, annotating, and managing vision datasets (images and videos). It supports embedding-based auto-selection, annotation, and auto-labeling for bounding boxes, segmentation, and captions.
 * [Awesome Open Source Data Annotation & Labeling Tools](https://github.com/zenml-io/awesome-open-data-annotation) ⭐ 730 | 🐛 2 | 📅 2026-07-06 - A list of the open-source tools available (sorted by task type) for anyone who wants to label data. Only actively maintained tools are listed.
 * [TagAnamoly](https://github.com/Microsoft/TagAnomaly) ⚠️ Archived - Anomaly detection labeling tool, specifically for multiple time series (one time series per category).
 * [EchoML](https://github.com/ritazh/EchoML) ⭐ 119 | 🐛 17 | 🌐 JavaScript | 📅 2020-04-05 - Play, visualize and annotate your audio files
 
 ## 🛠️ Data Preparation
 
-* [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 8,189 | 🐛 10 | 🌐 Python | 📅 2026-09-28 - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
+* [DataFlow](https://github.com/OpenDCAI/DataFlow) ⭐ 8,190 | 🐛 10 | 🌐 Python | 📅 2026-09-28 - LLM-ready data preparation system for turning raw PDFs, conversations, code, and databases into SFT, QA, and RAG-ready datasets.
 * [DataFix](https://github.com/AI-sandbox/DataFix) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-02-01 - DataFix is a Python tool for detecting and correcting distribution shifts between a reference and a query dataset. It detects shifts, localizes the specific features responsible for the shift, and corrects them efficiently.
 * [dtflow](https://github.com/KenyonY/dtflow) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - Terminal browser and CLI toolbox for LLM training data: inspect SFT/DPO/agent JSONL as conversations, filter with Python expressions, dedupe, convert between formats and export to training frameworks.
 
 ## 📚 Tutorials and Resources
 
-Here you may find a list of hands-on tutorials and other materials we use on our [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium) ⭐ 357 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-29.
+Here you may find a list of hands-on tutorials and other materials we use on our [Medium](https://medium.com/data-centric-ai-community) blogs here: [Tutorials and Resources](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai/tree/master/medium).
 
 * [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) ⭐ 1,791 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2026-10-02 - Data and pipeline centric failure map for LLM and production RAG systems, providing a compact vocabulary and practical repair steps for sixteen common issues in retrieval, chunking, embeddings, vector stores, evaluation, and infra.
 * [Data-centric Artificial Intelligence: A Survey](https://arxiv.org/abs/2303.10158) - This survey is to help readers efficiently grasp a broad
@@ -78,4 +78,4 @@ If you found these resources useful, please feel free to check out our [Discord 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
