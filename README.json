@@ -19,7 +19,7 @@
             "open_issues": 339,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13719,
+            "stars": 13720,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -203,7 +203,7 @@
             "open_issues": 4,
             "owner": "whylabs",
             "repo": "whylogs",
-            "stars": 2834,
+            "stars": 2835,
             "topics": [
               "ai-pipelines",
               "analytics",
@@ -278,7 +278,7 @@
             "open_issues": 2,
             "owner": "AutoViML",
             "repo": "AutoViz",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "auto-sklearn",
               "automated-machine-learning",
@@ -571,7 +571,7 @@
             "open_issues": 953,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28436,
+            "stars": 28444,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -644,7 +644,7 @@
             "open_issues": 175,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16214,
+            "stars": 16216,
             "topics": [
               "annotations",
               "classification",
@@ -788,11 +788,11 @@
             "id": 872005985,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T10:36:34Z",
+            "last_commit": "2026-10-11T13:13:11Z",
             "open_issues": 11,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 8207,
+            "stars": 8209,
             "topics": [
               "data",
               "data-agent",
@@ -886,11 +886,11 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T12:06:47Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-11T12:20:31Z",
+            "open_issues": 14,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1794,
+            "stars": 1795,
             "topics": [
               "ai-agents",
               "alignment",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T14:34:57.189Z",
+    "last_updated": "2026-10-11T15:00:03.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
