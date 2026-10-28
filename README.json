@@ -19,7 +19,7 @@
             "open_issues": 340,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13743,
+            "stars": 13744,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -61,7 +61,7 @@
             "open_issues": 57,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11906,
+            "stars": 11908,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 71,
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5233,
+            "stars": 5234,
             "topics": [
               "data-analysis",
               "data-science",
@@ -243,7 +243,7 @@
             "open_issues": 167,
             "owner": "sfu-db",
             "repo": "dataprep",
-            "stars": 2269,
+            "stars": 2270,
             "topics": [
               "apis",
               "apiwrapper",
@@ -312,7 +312,7 @@
             "open_issues": 87,
             "owner": "capitalone",
             "repo": "DataProfiler",
-            "stars": 1595,
+            "stars": 1596,
             "topics": [
               "avro",
               "csv",
@@ -356,11 +356,11 @@
             "id": 133060053,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T00:44:36Z",
-            "open_issues": 152,
+            "last_commit": "2026-10-28T13:37:17Z",
+            "open_issues": 153,
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3583,
+            "stars": 3586,
             "topics": [
               "data-generation",
               "deep-learning",
@@ -397,7 +397,7 @@
             "open_issues": 46,
             "owner": "jmschrei",
             "repo": "pomegranate",
-            "stars": 3547,
+            "stars": 3546,
             "topics": [
               "machine-learning",
               "probabilistic-graphical-models",
@@ -423,7 +423,7 @@
             "open_issues": 68,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1661,
+            "stars": 1662,
             "topics": [
               "datageneration",
               "datagenerator",
@@ -567,11 +567,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:37:37Z",
-            "open_issues": 958,
+            "last_commit": "2026-10-28T09:22:38Z",
+            "open_issues": 957,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28566,
+            "stars": 28575,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -644,7 +644,7 @@
             "open_issues": 174,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16246,
+            "stars": 16248,
             "topics": [
               "annotations",
               "classification",
@@ -671,8 +671,8 @@
             "id": 1080303945,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T14:30:26Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-28T14:48:01Z",
+            "open_issues": 59,
             "owner": "lightly-ai",
             "repo": "lightly-studio",
             "stars": 899,
@@ -792,7 +792,7 @@
             "open_issues": 33,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 8307,
+            "stars": 8322,
             "topics": [
               "data",
               "data-agent",
@@ -886,7 +886,7 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T11:47:39Z",
+            "last_commit": "2026-10-28T12:21:23Z",
             "open_issues": 14,
             "owner": "onestardao",
             "repo": "WFGY",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T14:47:15.942Z",
+    "last_updated": "2026-10-28T15:18:00.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
