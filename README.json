@@ -57,11 +57,11 @@
             "id": 103071520,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T04:29:02Z",
-            "open_issues": 59,
+            "last_commit": "2026-11-01T10:04:31Z",
+            "open_issues": 61,
             "owner": "fivetran",
             "repo": "great_expectations",
-            "stars": 11913,
+            "stars": 11912,
             "topics": [
               "cleandata",
               "data-engineering",
@@ -132,7 +132,7 @@
             "open_issues": 71,
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5235,
+            "stars": 5236,
             "topics": [
               "data-analysis",
               "data-science",
@@ -360,7 +360,7 @@
             "open_issues": 154,
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3588,
+            "stars": 3589,
             "topics": [
               "data-generation",
               "deep-learning",
@@ -460,7 +460,7 @@
             "open_issues": 0,
             "owner": "gretelai",
             "repo": "gretel-synthetics",
-            "stars": 683,
+            "stars": 682,
             "topics": [
               "artificial-intelligence",
               "differential-privacy",
@@ -571,7 +571,7 @@
             "open_issues": 958,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28594,
+            "stars": 28598,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -613,7 +613,7 @@
             "open_issues": 451,
             "owner": "HumanSignal",
             "repo": "labelImg",
-            "stars": 25034,
+            "stars": 25031,
             "topics": [
               "annotations",
               "deep-learning",
@@ -640,8 +640,8 @@
             "id": 58374888,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T11:14:45Z",
-            "open_issues": 174,
+            "last_commit": "2026-11-01T13:49:07Z",
+            "open_issues": 180,
             "owner": "wkentaro",
             "repo": "labelme",
             "stars": 16251,
@@ -788,11 +788,11 @@
             "id": 872005985,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T11:28:47Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-31T17:36:59Z",
+            "open_issues": 31,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 8385,
+            "stars": 8393,
             "topics": [
               "data",
               "data-agent",
@@ -886,11 +886,11 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T11:52:57Z",
+            "last_commit": "2026-11-01T12:52:08Z",
             "open_issues": 14,
             "owner": "onestardao",
             "repo": "WFGY",
-            "stars": 1800,
+            "stars": 1801,
             "topics": [
               "ai-agents",
               "alignment",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:39:04.293Z",
+    "last_updated": "2026-11-01T15:22:56.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
