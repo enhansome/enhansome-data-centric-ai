@@ -19,7 +19,7 @@
             "open_issues": 330,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13756,
+            "stars": 13755,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -132,7 +132,7 @@
             "open_issues": 73,
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5261,
+            "stars": 5262,
             "topics": [
               "data-analysis",
               "data-science",
@@ -360,7 +360,7 @@
             "open_issues": 149,
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3606,
+            "stars": 3607,
             "topics": [
               "data-generation",
               "deep-learning",
@@ -567,11 +567,11 @@
             "id": 192640529,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T15:55:19Z",
-            "open_issues": 987,
+            "last_commit": "2026-11-20T20:25:46Z",
+            "open_issues": 988,
             "owner": "HumanSignal",
             "repo": "label-studio",
-            "stars": 28734,
+            "stars": 28739,
             "topics": [
               "annotation",
               "annotation-tool",
@@ -644,7 +644,7 @@
             "open_issues": 77,
             "owner": "wkentaro",
             "repo": "labelme",
-            "stars": 16341,
+            "stars": 16344,
             "topics": [
               "annotations",
               "classification",
@@ -671,7 +671,7 @@
             "id": 1080303945,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T17:03:52Z",
+            "last_commit": "2026-11-21T14:12:21Z",
             "open_issues": 111,
             "owner": "lightly-ai",
             "repo": "lightly-studio",
@@ -792,7 +792,7 @@
             "open_issues": 19,
             "owner": "OpenDCAI",
             "repo": "DataFlow",
-            "stars": 8644,
+            "stars": 8650,
             "topics": [
               "data",
               "data-agent",
@@ -886,7 +886,7 @@
             "id": 996124831,
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T15:02:40Z",
+            "last_commit": "2026-11-21T14:23:56Z",
             "open_issues": 14,
             "owner": "onestardao",
             "repo": "WFGY",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T17:05:48.756Z",
+    "last_updated": "2026-11-21T16:17:57.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
